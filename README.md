@@ -5,6 +5,6 @@ make editing vimrc easy ever.
 
 ## Project structure
 
-* public: public folder
-* src: angular project
+* `public`: public folder
+* `src`: angular project
 * `main.py`: main python program
